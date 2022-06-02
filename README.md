@@ -6,6 +6,6 @@ IOS app lets users convert music links to other streaming services
 ###### 
 
 # Images
-![Alt text](Music-Link-Converter image/Image 1.png?raw=true)
-![Alt text](Music-Link-Converter image/Image 2.png?raw=true)
+![Alt text](Music-Link-Converter-Images/Image1.png?raw=true)
+![Alt text](Music-Link-Converter-Images/Image2.png?raw=true)
 
